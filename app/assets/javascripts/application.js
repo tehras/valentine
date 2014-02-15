@@ -13,4 +13,15 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require_tree .
+//= require bootstrap.js
+//= require jquery.isotope.js
+//= require jquery.prettyPhoto.js
+//= require jquery.cslider.js
+//= require modernizr.custom.28468.js
+//= require filter.js
+//= require cycle.js
+//= require jquery.flexslider-min.js
+//= require lightbox-2.6.min.js
+//= require easing.js
+//= require custom.js
+
